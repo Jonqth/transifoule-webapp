@@ -1,0 +1,42 @@
+/*
+Site: Transifoule - 1.0
+Site URI: 
+Version: 0.1
+Author: Aymeric Gallissot
+Author URI: http://aymericgallissot.fr
+*/
+
+
+/* BASE
+-------------------------------------------------- */
+body{
+	font:normal 100% "Lucida Grande",Lucida,Verdana,sans-serif;
+	color:#333333;
+	height:100px;
+	width:100px;
+}
+
+a{
+	color:#547F00;
+	text-decoration:none;
+}
+
+h2{
+	color:#89BF04;
+	font-size:1.3em;
+	padding:10px 0 10px 0;
+}
+
+h3{
+	font-size:1.1em;
+	line-height:1.1em;
+}
+
+h4{
+	font-size:1.1em;
+	line-height:1.1em;
+}
+
+
+/* HEADER
+-------------------------------------------------- */
